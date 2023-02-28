@@ -1,0 +1,13 @@
+
+
+let's say, there is a class whose object creation is resource intensive or
+we need only one instance of some class in the whole project.
+then one way we can do it is:
+Create object of that class once and then pass it around wherever we need it.
+
+
+but when using Singleton design pattern,
+we don't have to worry about creating or using multiple objects of same class,
+or pass and track any object around.
+
+also creation of object becomes thread safe in multithreaded environment.
