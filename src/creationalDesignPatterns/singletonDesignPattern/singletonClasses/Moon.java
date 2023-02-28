@@ -1,4 +1,4 @@
-package creationalDesignPatterns.singletonDesignPattern;
+package creationalDesignPatterns.singletonDesignPattern.singletonClasses;
 
 public class Moon {
     private static Moon moonInstance;
