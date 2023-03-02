@@ -1,0 +1,8 @@
+
+Let's say you want to build a phone,
+now you have to pass all the parameters/specifications for the phone, in the predefined sequence.
+
+But if you want any Android phone with 64GB storage, you can't do that,
+you must pass all the parameters.
+
+and builder design pattern solves this problem.
