@@ -1,0 +1,9 @@
+
+Let's say we are getting some class object from some method
+BUT the method/system which client has, doesn't accept that,
+so we convert/adapt the received object into what we need.
+
+so we don't have to modify the object providing method
+(which could be form legacy code or 3rd party library)
+
+In short, adapter makes two incompatible programs compatible.
