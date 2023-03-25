@@ -1,0 +1,9 @@
+
+it reduces applications object count
+
+when creating large number of same objects
+
+objects are immutable
+
+it tries to reuse similar object if it's available
+if not available then it creates it

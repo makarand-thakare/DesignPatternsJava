@@ -1,0 +1,4 @@
+
+Definition:
+Bridge design pattern decouples an abstraction from its implementation,
+so they both can vary independently.
